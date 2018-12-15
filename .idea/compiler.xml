@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="API" />
+        <module name="GsonSerializer" />
+        <module name="ReflectionSerializer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Abstract" target="1.8" />
+      <module name="API" target="1.8" />
+      <module name="datahandler" target="1.8" />
+      <module name="GsonSerializer" target="1.8" />
+      <module name="ReflectionSerializer" target="1.8" />
+      <module name="serializers" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

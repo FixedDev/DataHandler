@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serializers/GsonSerializer/GsonSerializer.iml" filepath="$PROJECT_DIR$/Serializers/GsonSerializer/GsonSerializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serializers/ReflectionSerializer/ReflectionSerializer.iml" filepath="$PROJECT_DIR$/Serializers/ReflectionSerializer/ReflectionSerializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datahandler.iml" filepath="$PROJECT_DIR$/datahandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serializers/serializers.iml" filepath="$PROJECT_DIR$/Serializers/serializers.iml" />
+    </modules>
+  </component>
+</project>

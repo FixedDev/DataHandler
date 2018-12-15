@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>datahandler</artifactId>
+        <groupId>me.ggamer55</groupId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>me.ggamer55.datahandler</groupId>
+    <artifactId>Serializers</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>ReflectionSerializer</module>
+        <module>GsonSerializer</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>me.ggamer55.datahandler</groupId>
+            <artifactId>API</artifactId>
+            <version>1.0.0</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+</project>

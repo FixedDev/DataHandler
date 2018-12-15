@@ -1,0 +1,13 @@
+me\ggamer55\datahandler\serializer\reflection\api\MethodData.class
+me\ggamer55\datahandler\serializer\reflection\api\field\defaultserializers\BooleanSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\field\CentralFieldSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\field\defaultserializers\LongSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\field\defaultserializers\DoubleSerializer.class
+me\ggamer55\datahandler\serializer\reflection\impl\ReflectionModelSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\field\FieldSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\field\defaultserializers\FloatSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\field\defaultserializers\IntegerSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\field\defaultserializers\StringSerializer.class
+me\ggamer55\datahandler\serializer\reflection\api\MethodAccesor.class
+me\ggamer55\datahandler\serializer\reflection\impl\ReflectionMethodAccesor.class
+me\ggamer55\datahandler\serializer\reflection\api\annotations\Setter.class

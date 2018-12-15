@@ -1,0 +1,17 @@
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\AbstractAccessService.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\request\DeleteModelRequest.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\NullQueryService.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\response\UpdateModelResponse.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\request\ModelRequest.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\NullAccessService.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\request\UpdateModelRequest.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\response\FindModelResponse.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\exception\NoSuchModelException.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\UpdateService.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\exception\InvalidRequestException.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\Serializable.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\request\FindModelRequest.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\model\Model.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\QueryService.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\AccessService.java
+D:\Workspace\datahandler\API\src\main\java\me\ggamer55\datahandler\api\model\serializer\ModelSerializer.java
